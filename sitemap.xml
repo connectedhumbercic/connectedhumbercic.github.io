@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://connectedhumbercic.github.io/blog/</loc>
+    <lastmod>2019-05-30T14:51:12+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://connectedhumbercic.github.io/</loc>
+    <lastmod>2019-05-30T14:51:12+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://connectedhumbercic.github.io/blog/first-sensor-built/</loc>
+    <lastmod>2019-05-30T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://connectedhumbercic.github.io/blog/sensors-live/</loc>
+    <lastmod>2019-05-30T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://connectedhumbercic.github.io/author/rob-miles/</loc>
+  </url>
+  
+  <url>
+    <loc>http://connectedhumbercic.github.io/author/somrat/</loc>
+  </url>
+  
+  <url>
+    <loc>http://connectedhumbercic.github.io/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://connectedhumbercic.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://connectedhumbercic.github.io/rob-miles/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://connectedhumbercic.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
