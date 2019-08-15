@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rob Miles on Connected Humber CIC</title>
-    <link>https://connectedhumbercic.github.io/rob-miles/</link>
+    <link>https://connectedhumbercic.com/rob-miles/</link>
     <description>Recent content in Rob Miles on Connected Humber CIC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://connectedhumbercic.github.io/rob-miles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://connectedhumbercic.com/rob-miles/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

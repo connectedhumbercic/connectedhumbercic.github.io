@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Connected Humber CIC</title>
-    <link>https://connectedhumbercic.github.io/blog/</link>
+    <link>https://connectedhumbercic.com/blog/</link>
     <description>Recent content in Blogs on Connected Humber CIC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 May 2019 14:51:12 +0600</lastBuildDate>
     
-	<atom:link href="https://connectedhumbercic.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://connectedhumbercic.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sensors Built</title>
-      <link>https://connectedhumbercic.github.io/blog/first-sensor-built/</link>
+      <link>https://connectedhumbercic.com/blog/first-sensor-built/</link>
       <pubDate>Thu, 30 May 2019 14:51:12 +0600</pubDate>
       
-      <guid>https://connectedhumbercic.github.io/blog/first-sensor-built/</guid>
+      <guid>https://connectedhumbercic.com/blog/first-sensor-built/</guid>
       <description>We&amp;rsquo;ve built our first of the set of four sensors that are due for deployment in Hull city centre.</description>
     </item>
     
     <item>
       <title>Sensors Live!</title>
-      <link>https://connectedhumbercic.github.io/blog/sensors-live/</link>
+      <link>https://connectedhumbercic.com/blog/sensors-live/</link>
       <pubDate>Thu, 30 May 2019 14:51:12 +0600</pubDate>
       
-      <guid>https://connectedhumbercic.github.io/blog/sensors-live/</guid>
+      <guid>https://connectedhumbercic.com/blog/sensors-live/</guid>
       <description>Our sensors are now deployed and some are sending data onto the network.</description>
     </item>
     
